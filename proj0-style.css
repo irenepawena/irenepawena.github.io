@@ -1,6 +1,10 @@
 body {
     background-color: Snow
 }
+h2 {
+    font-family: courier;
+    border: 1px double IndianRed;
+}
 img {
     display: block;
     margin-left: auto;
