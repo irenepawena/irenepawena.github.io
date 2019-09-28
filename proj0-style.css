@@ -1,9 +1,8 @@
 body {
-    background-color: Snow
+    background-color: peachpuff
 }
 h2 {
-    font-family: courier;
-    border: 1px double IndianRed;
+    border: 1px double black;
 }
 img {
     display: block;
