@@ -1,6 +1,9 @@
 body {
     background-color: peachpuff
 }
+h1 {
+    color: maroon;
+}
 h2 {
     border: 1px double black;
 }
